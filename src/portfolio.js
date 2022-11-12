@@ -377,7 +377,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many MNCs and startups as full stack developer Developer, dev lead and tech lead. Known as a hands-on and capable leader who thrives at organizing cross-functional teams in a fast-paced, deadline-driven atmosphere to ensure project completion on time and under budget.",
+    "I have worked with many MNCs and startups as full stack developer, dev lead and tech lead. Known as a hands-on and capable leader who thrives at organizing cross-functional teams in a fast-paced, deadline-driven atmosphere to ensure project completion on time and under budget.",
   header_image_path: "experience.svg",
   sections: [
     {
