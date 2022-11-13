@@ -165,8 +165,8 @@ const skills = {
       skills: [
         "⚡ Experience working on multiple cloud platforms.",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases.",
-        "⚡ Worked on cloud functions/lamda, Kubernetes, Data Migration Jobs, Big Query, Contact Center Applications.",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS.",
+        "⚡ Worked on cloud functions/lambda, Kubernetes, Data Migration Jobs, Big Query, Contact Center Applications.",
+        "⚡ Setting up jobs from K8s to Server or vice-versa on GCP and AWS.",
       ],
       softwareSkills: [
         {
