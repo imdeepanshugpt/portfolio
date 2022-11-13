@@ -274,7 +274,7 @@ const degrees = {
     {
       title: "Jaipur Engineering College and Research Center",
       subtitle: "B.Tech. in Computer Science",
-      logo_path: "jecrc.jpeg",
+      logo_path: "jecrc_logo.png",
       alt_name: "JECRC",
       duration: "2014 - 2018",
       descriptions: [
