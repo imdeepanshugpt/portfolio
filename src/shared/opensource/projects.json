@@ -1,1 +1,116 @@
-{"data":[{"id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=","name":"masterPortfolio","createdAt":"2020-03-06T16:26:54Z","url":"https://github.com/ashutosh1919/masterPortfolio","description":"The complete portfolio website hosted using github pages (gh-pages). Visit the website here : ","isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=","name":"truvisory","createdAt":"2020-06-03T11:53:55Z","url":"https://github.com/ashutosh1919/truvisory","description":"This project is meant to provide resources to users who want to access good LinkedIn posts which contains resources to learn any Technology, Design, Self-Branding, Motivation etc. You can visit project by:","isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=","name":"ml-data-bot","createdAt":"2020-06-19T14:24:55Z","url":"https://github.com/ashutosh1919/ml-data-bot","description":"Chatbot which helps you to get important statistics from the data to get insights to build Machine learning, Deep learning and Statistical models","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"}]},{"id":"MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=","name":"Stock-Prediction-using-LSTM","createdAt":"2018-11-03T05:00:56Z","url":"https://github.com/ashutosh1919/Stock-Prediction-using-LSTM","description":"This Project is predicting stocks for 32 companies with error less than 1% using LSTM Networks.","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"},{"name":"Jupyter Notebook","iconifyClass":"logos-jupyter"}]},{"id":"MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=","name":"Pick-Parser","createdAt":"2019-08-13T13:13:00Z","url":"https://github.com/dsc-iiitdmk/Pick-Parser","description":"This Project is to create a tool which can parse the Resumes and transform them into our own templates","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"}]},{"id":"MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=","name":"Survival_3D_Game","createdAt":"2019-04-18T17:25:51Z","url":"https://github.com/ashutosh1919/Survival_3D_Game","description":"Survival Game using Unity3D","isFork":false,"languages":[{"name":"C#","iconifyClass":"logos-c-sharp"}]}]}
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "BookMyRoom",
+      "createdAt": "2018-07-01T16:26:54Z",
+      "url": "https://github.com/imdeepanshugpt",
+      "description": "It is a hotel-booking website. The application is aimed at users who frequently travel, helping them to book suitable hotels/rooms based on their preferences. The application is simplifying tasks to users to identify and book rooms that meet the requirements. It must create a personalized experience for each user, through recommendations, referral discounts and social media feeds. PWA functionality is also implemented in this app.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Angular",
+          "iconifyClass": "logos-angular"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Nodejs",
+          "iconifyClass": "logos-nodejs"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
+      "name": "Restaurant and Food order Server",
+      "createdAt": "2020-06-03T11:53:55Z",
+      "url": "https://github.com/imdeepanshugpt",
+      "description": "Developed a micro service based application to facilitate users to search favorite restaurants and order the food.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Docker",
+          "iconifyClass": "logos-docker"
+        },
+        {
+          "name": "Nodejs",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "Express",
+          "iconifyClass": "logos-express"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
+      "name": "GiftCard Application",
+      "createdAt": "2020-06-19T14:24:55Z",
+      "url": "https://github.com/imdeepanshugpt",
+      "description": "It is a Gift Card website where users can redeem, send and receive e-gift cards online from popular brands.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Angular",
+          "iconifyClass": "logos-angular"
+        },
+        {
+          "name": "Nodejs",
+          "iconifyClass": "logos-nodejs"
+        },
+        {
+          "name": "Express",
+          "iconifyClass": "logos-express"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
+      "name": "Airline Management System",
+      "createdAt": "2018-11-03T05:00:56Z",
+      "url": "https://github.com/imdeepanshugpt",
+      "description": "This project is to book & change the flights and admin configuation to manage flights.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
+      "name": "Gatsby Blogger with Netlify CMS",
+      "createdAt": "2019-08-13T13:13:00Z",
+      "url": "https://github.com/imdeepanshugpt",
+      "description": "This Project is to create blogs without any use of database using Netlify CMS.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Gatsby",
+          "iconifyClass": "logos-gatsby"
+        },
+        {
+          "name": "Netlify",
+          "iconifyClass": "logos-netlify"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
+      "name": "Broadcast Streamer",
+      "createdAt": "2019-04-18T17:25:51Z",
+      "url": "https://github.com/imdeepanshugpt",
+      "description": "Broadcast Streaming website create using RMTP Server.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Nodejs",
+          "iconifyClass": "logos-nodejs"
+        }
+      ]
+    }
+  ]
+}

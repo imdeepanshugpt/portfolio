@@ -22,6 +22,7 @@ export default function socialMedia(props) {
             href={media.link}
             className={`icon-button`}
             target="_blank"
+            key={media.link}
             rel="noopener noreferrer"
           >
             <IconWrapper {...media} {...props}>
