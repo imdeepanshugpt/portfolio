@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Deepanshu's Portfolio",
   description:
-    "Experienced, innovative software engineer with around 4 years of experience creating and deploying new software solutions to boost business productivity. Extensive knowledge of the software development life cycle, from requirements through development to delivery. Known as a hands-on and capable leader who thrives at organizing cross-functional teams in a fast-paced, deadline-driven atmosphere to ensure project completion on time and under budget.",
+    "Experienced, innovative software engineer with around 5 years of experience creating and deploying new software solutions to boost business productivity. Extensive knowledge of the software development life cycle, from requirements through development to delivery. Known as a hands-on and capable leader who thrives at organizing cross-functional teams in a fast-paced, deadline-driven atmosphere to ensure project completion on time and under budget.",
   og: {
     title: "Deepanshu Gupta Portfolio",
     type: "website",
