@@ -23,9 +23,9 @@ const greeting = {
   logo_name: "DeepanshuGupta",
   nickname: "Deepanshu",
   subTitle:
-    "Experienced, innovative software engineer with around 4 years of experience creating and deploying new software solutions to boost business productivity. Extensive knowledge of the software development life cycle, from requirements through development to delivery. Known as a hands-on and capable leader who thrives at organizing cross-functional teams in a fast-paced, deadline-driven atmosphere to ensure project completion on time and under budget.",
+    "Experienced, innovative software engineer with around 5 years of experience creating and deploying new software solutions to boost business productivity. Extensive knowledge of the software development life cycle, from requirements through development to delivery. Known as a hands-on and capable leader who thrives at organizing cross-functional teams in a fast-paced, deadline-driven atmosphere to ensure project completion on time and under budget.",
   resumeLink:
-    "https://drive.google.com/file/d/1OojeEOl04ik4qBiQI-KLnspSseO57V5l/view?usp=sharing",
+    "https://drive.google.com/file/d/17QxKosgvAWO6VM8xGJs_UL6CtKEe7BDq/view?usp=sharing",
   portfolio_repository: "https://github.com/imdeepanshugpt/deepanshu-portfolio",
   githubProfile: "https://github.com/imdeepanshugpt",
 };
