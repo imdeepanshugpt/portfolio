@@ -1,5 +1,14 @@
 /* Change this file to get your personal Porfolio */
 
+const calcExperience = (d1, d2) => {
+  let date1 = new Date(d1);
+  let date2 = new Date(d2);
+  let years = date2.getFullYear() - date1.getFullYear();
+  let months = years * 12 + (date2.getMonth() - date1.getMonth());
+  months = months - years * 12;
+  return `${years}.${months} Years`;
+};
+
 // Website related settings
 const settings = {
   isSplash: false, // Change this to false if you don't want Splash screen.
@@ -8,8 +17,10 @@ const settings = {
 //SEO Related settings
 const seo = {
   title: "Deepanshu's Portfolio",
-  description:
-    "Experienced, innovative software engineer with around 5 years of experience creating and deploying new software solutions to boost business productivity. Extensive knowledge of the software development life cycle, from requirements through development to delivery. Known as a hands-on and capable leader who thrives at organizing cross-functional teams in a fast-paced, deadline-driven atmosphere to ensure project completion on time and under budget.",
+  description: `Experienced, innovative software engineer with around ${calcExperience(
+    new Date("07/01/2018"),
+    new Date()
+  )} of experience creating and deploying new software solutions to boost business productivity. Extensive knowledge of the software development life cycle, from requirements through development to delivery. Known as a hands-on and capable leader who thrives at organizing cross-functional teams in a fast-paced, deadline-driven atmosphere to ensure project completion on time and under budget.`,
   og: {
     title: "Deepanshu Gupta Portfolio",
     type: "website",
@@ -22,8 +33,10 @@ const greeting = {
   title: "Deepanshu Gupta",
   logo_name: "DeepanshuGupta",
   nickname: "Deepanshu",
-  subTitle:
-    "Experienced, innovative software engineer with around 5 years of experience creating and deploying new software solutions to boost business productivity. Extensive knowledge of the software development life cycle, from requirements through development to delivery. Known as a hands-on and capable leader who thrives at organizing cross-functional teams in a fast-paced, deadline-driven atmosphere to ensure project completion on time and under budget.",
+  subTitle: `Experienced, innovative software engineer with around ${calcExperience(
+    new Date("07/01/2018"),
+    new Date()
+  )} of experience creating and deploying new software solutions to boost business productivity. Extensive knowledge of the software development life cycle, from requirements through development to delivery. Known as a hands-on and capable leader who thrives at organizing cross-functional teams in a fast-paced, deadline-driven atmosphere to ensure project completion on time and under budget.`,
   resumeLink:
     "https://drive.google.com/file/d/17QxKosgvAWO6VM8xGJs_UL6CtKEe7BDq/view?usp=sharing",
   portfolio_repository: "https://github.com/imdeepanshugpt/deepanshu-portfolio",
