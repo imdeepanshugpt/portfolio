@@ -13,7 +13,7 @@ import { greeting, contactPageData } from "../../portfolio.js";
 const ContactData = contactPageData.contactSection;
 const blogSection = contactPageData.blogSection;
 const addressSection = contactPageData.addressSection;
-const phoneSection = contactPageData.phoneSection;
+// const phoneSection = contactPageData.phoneSection;
 
 class Contact extends Component {
   render() {
@@ -107,7 +107,7 @@ class Contact extends Component {
                 >
                   {addressSection["subtitle"]}
                 </p>
-                <h1
+                {/* <h1
                   className="address-heading-text"
                   style={{ color: theme.text }}
                 >
@@ -118,7 +118,7 @@ class Contact extends Component {
                   style={{ color: theme.secondaryText }}
                 >
                   {phoneSection["subtitle"]}
-                </p>
+                </p> */}
                 <div className="address-btn-div">
                   <Button
                     text="Visit on Google Maps"
