@@ -4,9 +4,10 @@ const calcExperience = (d1, d2) => {
   let date1 = new Date(d1);
   let date2 = new Date(d2);
   let years = date2.getFullYear() - date1.getFullYear();
-  let months = years * 12 + (date2.getMonth() - date1.getMonth());
-  months = months - years * 12;
-  return `${years}.${months} Years`;
+  let totalMonths = years * 12 + (date2.getMonth() - date1.getMonth());
+  const wholeYears = Math.floor(totalMonths / 12);
+  const remainingMonths = totalMonths % 12;
+  return `${wholeYears}.${remainingMonths} Years`;
 };
 
 // Website related settings
@@ -588,8 +589,8 @@ const contactPageData = {
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
-    title: "Address",
-    subtitle: "127.0.0.1",
+    title: "Email Address",
+    subtitle: "deepanshugupta.jaipur@gmail.com",
     avatar_image_path: "address_image.svg",
     // location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
   },
